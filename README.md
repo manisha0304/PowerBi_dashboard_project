@@ -16,10 +16,15 @@ HR teams can use its capabilities to make smart decisions and effectively manage
 Steps Overview :
 
 1.Data subset collected from online.
+
 2.Understanding the Data.
+
 3.Data Cleaning & Finding Missing values.
+
 4.Data Visualization.
 
 #PowerBi
+
 #Data visualisation
+
 #github
